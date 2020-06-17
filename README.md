@@ -11,7 +11,7 @@ apt-get install libvpx-dev
 ```
 
 ```
-go get github.com/akh64bit/goWebrtc/...
+go get -u github.com/akh64bit/goWebrtc/...
 ```
 
 ## Test
