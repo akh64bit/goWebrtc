@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/akh64bit/goWebrtc/screenshot"
+	"github.com/akh64bit/goWebrtc/webrtc"
 	"github.com/gorilla/mux"
-	"github.com/poi5305/go-yuv2webRTC/screenshot"
-	"github.com/poi5305/go-yuv2webRTC/webrtc"
 )
 
 var screenWidth int

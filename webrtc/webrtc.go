@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
+	vpxEncoder "github.com/akh64bit/goWebrtc/vpx-encoder"
 	"github.com/pion/webrtc/v2"
 	"github.com/pion/webrtc/v2/pkg/media"
-	vpxEncoder "github.com/poi5305/go-yuv2webRTC/vpx-encoder"
 )
 
 var config = webrtc.Configuration{
