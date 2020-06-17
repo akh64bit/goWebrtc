@@ -11,13 +11,13 @@ apt-get install libvpx-dev
 ```
 
 ```
-go get github.com/poi5305/go-yuv2webRTC/...
+go get github.com/akh64bit/goWebrtc/...
 ```
 
 ## Test
 
 ```
-cd $GOPATH/github.com/poi5305/go-yuv2webRTC
+cd $GOPATH/github.com/akh64bit/goWebrtc
 go run main.go
 ```
 
